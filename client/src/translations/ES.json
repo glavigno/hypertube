@@ -1,0 +1,93 @@
+{
+    "language": {
+        "chooseALanguage": "Elija un idioma",
+        "english": "Inglés",
+        "french": "Francés",
+        "spanish": "Español",
+        "german": "Alemán",
+        "russian": "Ruso"
+    },
+    "header": {
+        "search": "Buscar",
+        "profile": "Perfil",
+        "language": "Idioma",
+        "logout": "Cerrar sesión"
+    },
+    "search": {
+        "genre": "Género",
+        "sortBy": "Ordenar por",
+        "order": "Orden",
+        "year": "Años",
+        "rating": "Rating",
+        "desc": "Desc",
+        "asc": "Asc",
+        "all": "Todo",
+        "action": "Acción",
+        "adventure": "Aventura",
+        "animation": "Animation",
+        "comedy": "Comedia",
+        "crime": "Crimen",
+        "documentary": "Documental",
+        "drama": "Drama",
+        "family": "Familia",
+        "fantasy": "Fantasía",
+        "history": "Historia",
+        "horror": "Horror",
+        "music": "Música",
+        "musical": "Musical",
+        "mystery": "Misterio",
+        "romance": "Romance",
+        "sci-fi": "Sci-Fi",
+        "sport": "Sport",
+        "thriller": "Suspenso",
+        "war": "Guerra",
+        "western": "Western",
+        "sort": "Ordenar",
+        "searchTitle": "Busca un título",
+        "title": "Título"
+    },
+    "movie": {
+        "minutes": "min",
+        "comments": "Comentarios",
+        "comment": "Inserta un comentario",
+        "post": "Enviar"
+    },
+    "myProfile": {
+        "edit": "Editar",
+        "profile": "Perfil",
+        "username": "Nombre de usuario",
+        "email": "Email",
+        "firstName": "Nombre",
+        "lastName": "Apellido"
+    },
+    "myProfileEdit": {
+        "editProfile": "Editar el Perfil",
+        "avatarUploadButton": "Descargar una foto",
+        "username": "Nombre de usuario",
+        "email": "Email",
+        "firstName": "Nombre",
+        "lastName": "Apellido",
+        "updateInfoButton": "Editar información",
+        "currentPassword": "Contraseña actual",
+        "newPassword": "Contraseña nueva",
+        "updatePasswordButton": "Cambiar Contraseña",
+        "uploadAValidPicture": "Cargue una imagen JPG o PNG válida de menos de 1Mo"
+    },
+    "profile": {
+        "edit": "Editar",
+        "profile": "Perfil",
+        "username": "Nombre de usuario",
+        "email": "Email",
+        "firstName": "Nombre",
+        "lastName": "Apellido",
+        "invalidProfile": "Este perfil no existe"
+    },
+    "errorMsg": {
+        "email": "Introduzca un email en el formato correcto",
+        "firstName": "Entre 3 y 15 caracteres, sólo letras y '-'",
+        "lastName": "Entre 3 y 15 caracteres, sólo letras",
+        "username": "Entre 6 y 10 caracteres, sólo letras",
+        "currentPassword": "Mínimo 6 caracteres, al menos tres de las cuatro categorías: mayúscula, minúscula, número y carácter especial",
+        "newPassword": "Mínimo 6 caracteres, al menos tres de las cuatro categorías: mayúscula, minúscula, número y carácter especial"
+    }
+}

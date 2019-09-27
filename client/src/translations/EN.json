@@ -1,0 +1,94 @@
+{
+    "language": {
+        "chooseALanguage": "Choose a language",
+        "english": "English",
+        "french": "French",
+        "spanish": "Spanish",
+        "german": "German",
+        "russian": "Russian"
+    },
+    "header": {
+        "search": "Search",
+        "profile": "Profile",
+        "language": "Language",
+        "logout": "Logout"
+    },
+    "search": {
+        "genre": "Genre",
+        "sortBy": "Sort By",
+        "order": "Order",
+        "year": "Years",
+        "rating": "Rating",
+        "desc": "Desc",
+        "asc": "Asc",
+        "all": "All",
+        "action": "Action",
+        "adventure": "Adventure",
+        "animation": "Animation",
+        "comedy": "Comedy",
+        "crime": "Crime",
+        "documentary": "Documentary",
+        "drama": "Drama",
+        "family": "Family",
+        "fantasy": "Fantasy",
+        "history": "History",
+        "horror": "Horror",
+        "music": "Music",
+        "musical": "Musical",
+        "mystery": "Mystery",
+        "romance": "Romance",
+        "sci-fi": "Sci-Fi",
+        "sport": "Sport",
+        "thriller": "Thriller",
+        "war": "War",
+        "western": "Western",
+        "sort": "sort",
+        "searchTitle": "Search a title",
+        "title": "Title"
+    },
+    "movie": {
+        "minutes": "min",
+        "comments": "Comments",
+        "comment": "Comment",
+        "post": "Post"
+    },
+    "myProfile": {
+        "edit": "Edit",
+        "profile": "Profile",
+        "username": "Username",
+        "email": "Email",
+        "firstName": "First Name",
+        "lastName": "Last Name"
+    },
+    "myProfileEdit": {
+        "editProfile": "Edit Profile",
+        "avatarUploadButton": "Upload a Picture",
+        "username": "Username",
+        "email": "Email",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "updateInfoButton": "Update Info",
+        "currentPassword": "Current Password",
+        "newPassword": "New Password",
+        "updatePasswordButton": "Update Password",
+        "uploadAValidPicture": "Please upload a valid JPG or PNG picture less than 1Mo"
+    },
+    "profile": {
+        "edit": "Edit",
+        "profile": "Profile",
+        "username": "Username",
+        "email": "Email",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "invalidProfile": "This profile does not exist"
+    },
+    "errorMsg": {
+        "email": "Enter a proper email",
+        "firstName": "Between 3 and 15 characters, only letters and '-'",
+        "lastName": "Between 3 and 15 characters, only letters",
+        "username": "Between 6 and 10 characters, only letters",
+        "currentPassword": "Minimum 6 characters, at least three of those four categories: uppercase, lowercase, number and special character",
+        "newPassword": "Minimum 6 characters, at least three of those four categories: uppercase, lowercase, number and special character"
+    }
+}
+

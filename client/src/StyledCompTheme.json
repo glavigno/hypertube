@@ -1,0 +1,21 @@
+{
+    "color": {
+        "black": "black",
+        "grey": "grey",
+        "white" : "white",
+        "red":"#E50813",
+        "purple": "#6F48BD",
+        "lightPurple": "#F2ECFF",
+        "lightRed":"#FF5B6C",
+        "ultraLightRed":"#FFD7DB",
+        "background": "#FBF9FF",
+        "cardBackground" : "white",
+        "textBlack" : "#4A4A4A",
+        "textGrey" : "#D0D0D0",
+        "lightGrey" : "#E7E7E8",
+        "textGray" : "#D0D0D0",
+        "lightGray" : "#E7E7E8",
+        "green" : "#ABEF99"
+    },
+    "borderRadius": "5px"
+}
