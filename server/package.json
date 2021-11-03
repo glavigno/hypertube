@@ -42,7 +42,7 @@
     "torrent-stream": "^1.1.0",
     "torrent-to-magnet": "^1.0.1",
     "uuid": "^3.3.3",
-    "validator": "^11.1.0",
+    "validator": "^13.7.0",
     "yifysubtitles": "^2.1.2"
   },
   "devDependencies": {
